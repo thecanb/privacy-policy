@@ -1,6 +1,6 @@
 # HesapKitap+ Gizlilik Politikası
 
-Son güncelleme: [Tarih]
+Son güncelleme: [26.01.2025]
 
 ## Giriş
 HesapKitap+ uygulaması olarak, kullanıcılarımızın gizliliğine önem veriyoruz. Bu gizlilik politikası, uygulamayı kullanırken toplanan, kullanılan ve korunan bilgileri açıklar.
