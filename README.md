@@ -39,7 +39,7 @@ Bu gizlilik politikası zaman zaman güncellenebilir. Önemli değişiklikler ol
 
 ## İletişim
 Gizlilik politikamızla ilgili sorularınız için:
-Email: [Email Adresi]
+Email: [ismertcanbaz@gmail.com]
 
 ## Onay
 Uygulamayı kullanarak bu gizlilik politikasını kabul etmiş olursunuz. 
