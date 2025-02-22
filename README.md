@@ -1,45 +1,26 @@
-# HesapKitap+ Gizlilik Politikası
+Privacy Policy
 
-Son güncelleme: [26.01.2025]
+Last updated: [22.02.2025]
 
-## Giriş
-HesapKitap+ uygulaması olarak, kullanıcılarımızın gizliliğine önem veriyoruz. Bu gizlilik politikası, uygulamayı kullanırken toplanan, kullanılan ve korunan bilgileri açıklar.
+At Wake Up We're Here, we value your privacy. This privacy policy explains what data our application collects and how we use it.
 
-## Toplanan Bilgiler
-Uygulamamız aşağıdaki bilgileri toplar ve kullanır:
+Data Collection:
+- No data is stored on our servers
 
-### Kullanıcı Tarafından Sağlanan Bilgiler
-- Hatırlatıcılar
-- Harcama kayıtları
-- Yatırım bilgileri
-- Alışveriş listeleri
+Data Usage:
+- Location data is only used to detect when you're approaching your destination
+- Your data is stored locally on your device
+- Your data is not shared with or sold to third parties
+- No data is stored on our servers
 
-### iCloud Entegrasyonu
-- Uygulama, veri senkronizasyonu için iCloud kullanır
-- Verileriniz Apple'ın iCloud sunucularında güvenli bir şekilde saklanır
-- iCloud kullanımı tamamen isteğe bağlıdır
+Permissions:
+- Location permission: Required for background location tracking
+- Notification permission: Required to show alarm notifications
+- Audio permission: Required to play alarm sounds
 
-## Veri Kullanımı
-Toplanan bilgiler yalnızca:
-- Uygulama işlevselliğini sağlamak
-- Kullanıcı deneyimini iyileştirmek
-- iCloud üzerinden veri senkronizasyonu sağlamak
-için kullanılır.
+Data Security:
+- Your data is stored encrypted only on your device
+- Internet connection is only used for map display
 
-## Veri Güvenliği
-- Tüm veriler şifrelenerek saklanır
-- Veriler yalnızca kullanıcının kendi cihazlarında ve iCloud hesabında tutulur
-- Üçüncü taraflarla veri paylaşımı yapılmaz
-
-## Çocukların Gizliliği
-Uygulamamız 13 yaşın altındaki çocuklardan bilerek veri toplamaz.
-
-## Değişiklikler
-Bu gizlilik politikası zaman zaman güncellenebilir. Önemli değişiklikler olduğunda kullanıcılarımızı bilgilendireceğiz.
-
-## İletişim
-Gizlilik politikamızla ilgili sorularınız için:
-Email: [ismertcanbaz@gmail.com]
-
-## Onay
-Uygulamayı kullanarak bu gizlilik politikasını kabul etmiş olursunuz. 
+Contact:
+For questions about our privacy policy: [ismertcanbaz@gmail.com]
